@@ -1,0 +1,108 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Google Colab
+# =========================
+sample_data/
+
+# =========================
+# IDE Settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python Packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# =========================
+# Testing
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Model Checkpoints
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+*.onnx
+
+# =========================
+# TensorBoard
+# =========================
+runs/
+logs/
+
+# =========================
+# Dataset Folders (Optional)
+# Uncomment if datasets are downloaded locally
+# =========================
+# data/
+# dataset/
+# datasets/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.bak
+*.swp
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.tar
+*.gz
+*.rar
+
+# =========================
+# Miscellaneous
+# =========================
+.cache/
